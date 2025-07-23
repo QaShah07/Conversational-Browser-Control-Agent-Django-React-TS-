@@ -1,0 +1,9 @@
+django
+djangorestframework
+channels
+channels-redis
+playwright
+pydantic
+dramatiq
+redis
+openai
