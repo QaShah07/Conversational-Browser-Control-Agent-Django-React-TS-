@@ -6,4 +6,4 @@ playwright
 pydantic
 dramatiq
 redis
-openai
+google-generativeai
